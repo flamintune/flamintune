@@ -1,33 +1,5 @@
-# flamintune
+# flamingo
 
-正在努力书写自己的未来
-
----
-
-技术栈
-
-- React
-- Nodejs
-
----
-
-工作经历
-
-2023.9.26 — 2024.1.26 百词斩前端实习生
-
-2024.1.29 — 现在 沉浸式翻译前端实习生
-
----
-
-目前在做的事情
-
-- 沉浸式翻译
-- 写技术博客
-- 准备秋招
-- 考驾照
-
----
-
-
-
-未完待续......
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamintune&layout=compact&theme=dracula" />
+</a>
